@@ -14,6 +14,5 @@ Oled Pin GND --> ESP32 Pin GND
 Oled Pin SCL --> ESP32 Pin 21
 Oled Pin SDA --> ESP32 Pin 22
 ```
-- Image of connection
+- Image of connection ESP32 & Oled 0,96" Display
 <img src="ESP32-WiFiScanner.jpg" alt="ESP32-WiFiScanner" width="300" height="600">
-ESP32-WiFiScanner.jpg
