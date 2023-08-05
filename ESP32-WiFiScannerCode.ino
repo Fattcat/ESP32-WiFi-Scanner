@@ -3,6 +3,8 @@
 #include <Adafruit_SSD1306.h>
 #include <WiFi.h>
 
+// Created By Fattcat
+// YouTube : https://www.youtube.com/channel/UCKfToKJFq-uvI8svPX0WzYQ
 // Oled Pin VCC --> ESP32 Pin 3.3 V
 // Oled Pin GND --> ESP32 Pin GND
 // Oled Pin SCL --> ESP32 Pin 21
