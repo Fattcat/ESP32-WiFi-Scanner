@@ -8,4 +8,12 @@
 - Aduino Oled 0,96 inch Display About 2,60€
 - AliExpress Link --> https://www.aliexpress.com/item/1005003780343300.html?spm=a2g0o.productlist.main.3.27524feaatAPxX&algo_pvid=daf0f388-f291-4b9b-9b72-709a9b2ab829&algo_exp_id=daf0f388-f291-4b9b-9b72-709a9b2ab829-1&pdp_npi=4%40dis%21EUR%212.17%211.97%21%21%212.32%21%21%4021038ede16912536247933874e3cb3%2112000027143084414%21sea%21SK%214031371332%21&curPageLogUid=ELgQF2jyFBWk
 
+<style>
+  .rotated-image {
+    transform: rotate(90deg); /* Zmena uhla otočenia podľa potreby */
+  }
+</style>
+<img src="ESP32-WiFiScanner.jpg" alt="ESP32-WiFiScanner" class="rotated-image">
+
 <img src="ESP32-WiFiScanner.jpg" alt="ESP32-WiFiScanner" width="600" height="800">
+ESP32-WiFiScanner.jpg
